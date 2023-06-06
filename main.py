@@ -1,4 +1,4 @@
-# def function game area
+# def function game area, generated and visualise
 
 def generate_game_area(width: int, length: int) -> list:
     return [[" " for _ in range(width)] for _ in range(length)]
